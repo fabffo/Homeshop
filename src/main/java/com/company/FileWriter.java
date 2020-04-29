@@ -5,7 +5,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class FileWriter implements Writer {
+public class FileWriter implements com.company.Writer {
     private String filename;
     private Path path;
     private String content;

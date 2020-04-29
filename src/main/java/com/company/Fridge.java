@@ -1,6 +1,6 @@
 package com.company;
 
-public class Fridge extends Product {
+public class Fridge extends com.company.Product {
     private int liter;
     private boolean freezer;
 
